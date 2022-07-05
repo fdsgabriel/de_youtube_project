@@ -9,4 +9,4 @@ Step by step is:
    Transform CSV and JSON (unested data) data using AWS Lambda to Parquet file;
    Save cleaned data on new bucket ready to be used.
   
-The flow of the process is going to follow the image attached. 
+The flow of the process is illustrated on the image attached. 
