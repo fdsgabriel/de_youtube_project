@@ -1,7 +1,7 @@
 # Data Engineering YouTube project
 
 The main focus here is load, treat and realease a high great data for any analystics one.
-To do so, I use some trending YouTube statitics from Kaggle (avaiable on this repo).
+To do so, I use some [trending YouTube statitics](https://www.kaggle.com/datasets/datasnaek/youtube-new) from Kaggle.
 
 Step by step is: 
 - Upload data to AWS S3 at raw bucket;
